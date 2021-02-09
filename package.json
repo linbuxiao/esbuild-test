@@ -1,0 +1,12 @@
+{
+  "name": "esbuild-test",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "server": "live-server ./ --port=9090 --cors"
+  },
+  "dependencies": {
+    "live-server": "^1.2.1",
+    "vue": "^3.0.5"
+  }
+}
